@@ -15,12 +15,19 @@
         android:id="@+id/rates"
         android:name="com.indugwhs.loftcoin3.ui.activity.rates.RatesFragment"
         android:label="@string/rates"
-        tools:layout="@layout/rates_fragment"/>
+        tools:layout="@layout/fragment_rates"/>
 
     <fragment
         android:id="@+id/converter"
         android:name="com.indugwhs.loftcoin3.ui.activity.converter.ConverterFragment"
         android:label="@string/converter"
-        tools:layout="@layout/converter_fragment"/>
+        tools:layout="@layout/fragment_converter"/>
+    <dialog
+        android:id="@+id/currency_dialog"
+        android:name="com.indugwhs.loftcoin3.ui.currency.CurrencyDialog"
+        android:label="CurrencyDialog"
+        tools:layout="@layout/dialog_currency"/>
+
+
 
 </navigation>
