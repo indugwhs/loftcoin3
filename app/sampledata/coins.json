@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "slug": "bitcoin",
+      "num_market_pairs": 8007,
+      "date_added": "2013-04-28T00:00:00.000Z",
+      "tags": [
+        "mineable"
+      ],
+      "max_supply": 21000000,
+      "circulating_supply": 18367250,
+      "total_supply": 18367250,
+      "platform": null,
+      "cmc_rank": 1,
+      "last_updated": "2020-05-07T17:19:27.000Z",
+      "quote": {
+        "USD": {
+          "price": 9627.29621027,
+          "volume_24h": 52249604451.8597,
+          "percent_change_1h": 1.72723,
+          "percent_change_24h": 3.52736,
+          "percent_change_7d": 9.3804,
+          "market_cap": 176826956318.08167,
+          "last_updated": "2020-05-07T17:19:27.000Z"
+        }
+      }
+    },
+    {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "num_market_pairs": 5138,
+      "date_added": "2015-08-07T00:00:00.000Z",
+      "tags": [
+        "mineable"
+      ],
+      "max_supply": null,
+      "circulating_supply": 110830626.249,
+      "total_supply": 110830626.249,
+      "platform": null,
+      "cmc_rank": 2,
+      "last_updated": "2020-05-07T17:19:23.000Z",
+      "quote": {
+        "USD": {
+          "price": 205.712322463,
+          "volume_24h": 21292443531.6534,
+          "percent_change_1h": 0.299937,
+          "percent_change_24h": -2.26497,
+          "percent_change_7d": -2.78765,
+          "market_cap": 22799225525.710518,
+          "last_updated": "2020-05-07T17:19:23.000Z"
+        }
+      }
+    }
+    ]
+  }
