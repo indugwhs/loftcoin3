@@ -10,13 +10,14 @@ import com.indugwhs.loftcoin3.databinding.LiWalletBinding;
 
 import org.jetbrains.annotations.NotNull;
 
+
 class WalletsAdapter extends RecyclerView.Adapter<WalletsAdapter.ViewHolder> {
 
     private LayoutInflater inflater;
 
     @Override
     public int getItemCount() {
-        return 10;
+        return 0;
     }
 
     @NonNull
