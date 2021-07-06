@@ -15,7 +15,7 @@ import com.indugwhs.loftcoin3.R;
 
 import com.indugwhs.loftcoin3.databinding.ActivityWelcomeBinding;
 import com.indugwhs.loftcoin3.ui.main.MainActivity;
-import com.indugwhs.loftcoin3.ui.widget.CircleIndicator;
+import com.indugwhs.loftcoin3.widget.CircleIndicator;
 
 public class WelcomeActivity extends AppCompatActivity {
 

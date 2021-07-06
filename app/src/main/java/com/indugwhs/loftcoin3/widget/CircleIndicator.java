@@ -1,4 +1,4 @@
-package com.indugwhs.loftcoin3.ui.widget;
+package com.indugwhs.loftcoin3.widget;
 
 import android.content.Context;
 import android.graphics.Canvas;
