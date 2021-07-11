@@ -74,6 +74,7 @@ class RatesAdapter extends ListAdapter<Coin, RatesAdapter.ViewHolder> {
 
     @Override
     public long getItemId(int position) {
+
         return getItem(position).id();
     }
 
