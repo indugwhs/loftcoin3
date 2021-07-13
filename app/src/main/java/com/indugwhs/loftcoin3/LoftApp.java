@@ -23,9 +23,9 @@ public class LoftApp extends Application {
         component = DaggerAppComponent.builder()
                 .application(this)
                 .build();
-        FirebaseInstanceId.getInstance().getInstanceId().addOnSuccessListener(instanceIdResult -> {
-            Timber.d("fcm: %s", instanceIdResult.getToken());
-        });
+//        FirebaseInstanceId.getInstance().getInstanceId().addOnSuccessListener(instanceIdResult -> {
+//            Timber.d("fcm: %s", instanceIdResult.getToken());
+//        });
 
     }
 
